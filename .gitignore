@@ -13,6 +13,7 @@ ENV/
 env/
 anacondaprojects/
 *.DS_Store
+notebooks/anaconda_projects/
 
 # --- Jupyter ---
 .ipynb_checkpoints/
